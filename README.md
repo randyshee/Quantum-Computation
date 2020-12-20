@@ -1,3 +1,8 @@
 # Quantum-Computation
 
-See my projects in the folders!
+Please see my projects about quantum computation in the folders!
+
+Some notable results:
+| *Quantum Circuit that passes [2020 May IBM Quantum Challenge](https://www.ibm.com/blogs/research/2020/04/ibm-quantum-challenge/) Exercise 4* |
+|-------------------------|
+| <img src="https://github.com/randyshee/Quantum-Computation/blob/main/Alternate_Universality_Construction/image/cost%3D239.png" width="1000"> |
