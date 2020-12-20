@@ -3,7 +3,7 @@
 Please see my projects about quantum computation in the folders!
 
 ## Some notable results:
-1. Alternate Universality Construction (systematically output quantum circuits from any given unitary matrix)
+1. Alternate Universality Construction (systematically output quantum circuits from any unitary matrix)
 
 | *Quantum Circuit that passes [2020 May IBM Quantum Challenge](https://www.ibm.com/blogs/research/2020/04/ibm-quantum-challenge/) Exercise 4* |
 |-------------------------|
