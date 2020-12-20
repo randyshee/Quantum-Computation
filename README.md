@@ -1,4 +1,4 @@
-# Quantum-Computation
+# Quantum Computation
 
 Please see my projects about quantum computation in the folders!
 
