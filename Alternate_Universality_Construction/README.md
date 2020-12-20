@@ -1,9 +1,12 @@
 # Alternate_Universality_Construction
-This is a project that implements Problem 4.3 in Quantum Computation and Quantum Information by Nielsen and Chuang. (See "Problem 4.3 N&C.png" for the math background) The method in Problem 4.3 provides a systematic way to output a quantum circuit from any unitary matrix. And I used this method to solve 2020 IBM-Challenge-4 and got a cost of 239.
+This project is an implementation of Problem 4.3 of [Quantum Computation and Quantum Information](https://www.cambridge.org/core/books/quantum-computation-and-quantum-information/01E10196D0A682A6AEFFEA52D53BE9AE) by Nielsen and Chuang. The method in Problem 4.3 provides a systematic way to output a quantum circuit from any unitary matrix. And I used this method to solve [2020 May IBM Quantum Challenge](https://www.ibm.com/blogs/research/2020/04/ibm-quantum-challenge/) Exercise 4 and got a cost of 239 if ordered properly.
 
+The unordered quantum circuit has a cost of 359 and the ordered quantum circuit has a cost of 239.
+| *Unordered Quantum Circuit* | *Ordered Quantum Circuit* |
+|------------|-------------|
+| <img src="https://github.com/randyshee/Quantum-Computation/blob/main/Alternate_Universality_Construction/image/cost%3D359.png" width="500"> | <img src="https://github.com/randyshee/Quantum-Computation/blob/main/Alternate_Universality_Construction/image/cost%3D239.png" width="500"> |
 
-See "Github Project–Alternative Universality Construction.ipynb" for the jupyter notebook implementation
-
-See "cost=359.png" for an unordered quantum circuit with a cost of 359 after transpilation
-
-See "cost=239.png" for an reordered quantum circuit with a cost of 239 after transpilation
+See the image below for math background from a screenshot of the book.
+| *Problem 4.3 from Quantum Computation and Quantum Information* |
+|:--:| 
+| ![Problem 4.3](https://github.com/randyshee/Quantum-Computation/blob/main/Alternate_Universality_Construction/image/Problem%204.3%20N%26C.png) | 
